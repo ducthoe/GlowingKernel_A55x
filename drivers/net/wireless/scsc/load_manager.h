@@ -18,7 +18,7 @@
 #ifdef CONFIG_SCSC_WLAN_CPUHP_MONITOR
 #define SLSI_MAX_CLUSTERS SLSI_NR_CPUS
 #endif
-#define RPS_MAP_LEN 4
+#define RPS_MAP_LEN 5
 #define RPS_MAP_LOW "000"
 #define RPS_MAP_HIGH "070"
 
