@@ -1,7 +1,7 @@
 # GlowingKernel
 GlowingKernel for A55X
 
-**Based on A556EXXS6AYC2 sources**
+**Based on A556EXXS6AYC2 sources and upstream**
 
 ## Performance:
 
@@ -37,6 +37,6 @@ Install whatever module, give apps superuser etc...
 
 ## Credits:
 
-- github.com/kevios12 for his work on Nameless-A556B, cool person, dev here
+- github.com/kevios12 for his work on Nameless-A556B, cool person, main dev here
 - github.com/kastentop2005 Owner of Exynos1480-dev, also cool person, also dev here
 - github.com/Vaz15k Creator of the AnyKernel3 fork for A54 which I used for GlowingKernel
